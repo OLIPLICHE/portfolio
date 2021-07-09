@@ -1,16 +1,16 @@
-body{
+body {
   background-image: url("image/Header bg@2x.jpg");
 }
 
-h1 h3{
+h1 h3 {
   color: #0a1529;
 }
 
-h2{
+h2 {
   color: #6c7af8;
 }
 
-p{
+p {
   color: #293c5e;
 }
 
@@ -24,7 +24,7 @@ p{
   align-items: center;     
 }
 
-.navbar{
+.navbar {
   display: flex;
   justify-content: space-between;
   width: 80%;
@@ -33,19 +33,19 @@ p{
   padding: 30px;
 }
 
-.d-navbar{
+.d-navbar {
   display: flex;
   list-style-type: none;
   cursor: pointer;
 }
 
-.a-navbar{
+.a-navbar {
   text-decoration: none;
   height: 2em;
   padding: 0.5em 1em;
 }
 
-.welcome{
+.welcome {
   width: 40%;
   margin: 0 auto;
   margin-top: 10%;
@@ -62,13 +62,6 @@ p{
   gap: 15px;
 }
 
-
 .link-up ul li {
   list-style: none;
 }
-
-
-
-  
-
-
