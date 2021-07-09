@@ -1,3 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+body {
+  padding: 0;
+  margin: 0;
+}
+
 ul {
   list-style: none;
 }
@@ -8,6 +21,11 @@ a {
 
 #header {
   width: 100%;
+}
+
+.header-container {
+  width: 90%;
+  margin: 0 auto;
   height: 4rem;
   display: flex;
   align-items: center;
@@ -19,7 +37,6 @@ a {
   display: flex;
   align-items: center;
   line-height: 4rem;
-  padding-right: 1rem;
 }
 
 .d-navbar {
@@ -33,11 +50,20 @@ a {
 }
 
 .d-navbar li a {
-  color: #000;
+color: #6070ff;
+}
+
+.navbar .humberger i {
+  font-size:22px;
+  font-weight: 600;
+color: #6070ff;
 }
 
 .logo {
-  padding-left: 1rem;
+font-size: 18px;
+font-weight: 700;
+line-height: 20px;
+color: #6070ff;
 }
 
 #main-container {
@@ -49,22 +75,46 @@ a {
   background-image: url("image/Header_bg@2x.jpg");
   background-size: cover;
   background-repeat: no-repeat;
+  padding-top: 5rem;
 }
 
 .headline-main-container {
   width: 90%;
-  padding: 0 2rem;
+  margin: 0 auto;
 }
 
-.link-up ul {
-  display: flex;
-  gap: 15px;
-  padding-left: 0;
+.welcome {
+  font-size: 2.5rem; 
+  color: #172B4D;
+ }
+
+.link-up {
+  margin-top: 1rem;
 }
 
-img {
-  width: 20px;
-  height: 20px;
+.link-up h2 {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+color: #6070ff;
+}
+
+.introduction {
+  width: 100%;
+  max-width: 600px;
+  font-size: 16px;
+  line-height: 24px;
+  color: #172B4D;
+}
+
+.link-up .social-list {
+  margin-top: 0.7rem;
+  display:flex;
+  align-items: center;
+}
+
+.link-up .social-list li {
+  margin-right: 0.8rem;
 }
 
 @media screen and (min-width: 600px) {
@@ -74,5 +124,9 @@ img {
 
   .humberger {
     display: none;
+  }
+
+ .welcome {
+    padding-top: 6rem;
   }
 }
