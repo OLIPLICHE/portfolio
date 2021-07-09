@@ -6,6 +6,7 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
+
 body {
   padding: 0;
   margin: 0;
@@ -56,14 +57,14 @@ color: #6070ff;
 .navbar .humberger i {
   font-size:22px;
   font-weight: 600;
-color: #6070ff;
+  color: #6070ff;
 }
 
 .logo {
-font-size: 18px;
-font-weight: 700;
-line-height: 20px;
-color: #6070ff;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 20px;
+  color: #6070ff;
 }
 
 #main-container {
@@ -85,8 +86,8 @@ color: #6070ff;
 
 .welcome {
   font-size: 2.5rem; 
-  color: #172B4D;
- }
+  color: #172b4d;
+}
 
 .link-up {
   margin-top: 1rem;
@@ -104,7 +105,7 @@ color: #6070ff;
   max-width: 600px;
   font-size: 16px;
   line-height: 24px;
-  color: #172B4D;
+  color: #172b4d;
 }
 
 .link-up .social-list {
@@ -118,15 +119,15 @@ color: #6070ff;
 }
 
 @media screen and (min-width: 600px) {
-  .d-navbar {
-    display: flex;
-  }
+.d-navbar {
+  display: flex;
+}
 
-  .humberger {
-    display: none;
-  }
+.humberger {
+  display: none;
+}
 
- .welcome {
-    padding-top: 6rem;
-  }
+.welcome {
+  padding-top: 6rem;
+}
 }
