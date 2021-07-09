@@ -1,9 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
-"Portfolio" project
-> Portfolio Project is going to be an open project which began now to the end of training. In this Project
-
+#Personal Portfolio
+>My Portfolio Project is talking about my projects, and what I have done so far, the skills in which I have improved.
 
 ## Built With
 
