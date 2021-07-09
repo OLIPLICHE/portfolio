@@ -2,7 +2,7 @@
 
 ## Personal Portfolio
 >Personal Portfolio project displays skills I have in bulding website. This project is project includes html and css skills. Click the links bellow to visit my website.
-[Website link] (https://github.com/OLIPLICHE/portfolio_mobile_version.git)
+[Website link] (https://github.com/OLIPLICHE/portfolio/)
 
 ## This Project is build with: 
 - HTML

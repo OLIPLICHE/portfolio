@@ -51,20 +51,20 @@ a {
 }
 
 .d-navbar li a {
-color: #6070ff;
+  color:#6070ff;
 }
 
 .navbar .humberger i {
-  font-size:22px;
+  font-size: 22px;
   font-weight: 600;
-  color: #6070ff;
+  color:#6070ff;
 }
 
 .logo {
   font-size: 18px;
   font-weight: 700;
   line-height: 20px;
-  color: #6070ff;
+  color:#6070ff;
 }
 
 #main-container {
@@ -85,7 +85,7 @@ color: #6070ff;
 }
 
 .welcome {
-  font-size: 2.5rem; 
+  font-size: 2.5rem;
   color: #172b4d;
 }
 
@@ -97,7 +97,7 @@ color: #6070ff;
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
-color: #6070ff;
+  color: #6070ff;
 }
 
 .introduction {
@@ -110,7 +110,7 @@ color: #6070ff;
 
 .link-up .social-list {
   margin-top: 0.7rem;
-  display:flex;
+  display: flex;
   align-items: center;
 }
 
@@ -119,15 +119,15 @@ color: #6070ff;
 }
 
 @media screen and (min-width: 600px) {
-.d-navbar {
-  display: flex;
-}
+  .d-navbar {
+    display: flex;
+  }
 
-.humberger {
-  display: none;
-}
+  .humberger {
+    display: none;
+  }
 
-.welcome {
-  padding-top: 6rem;
-}
+  .welcome {
+    padding-top: 6rem;
+  }
 }
