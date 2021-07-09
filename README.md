@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 #Personal Portfolio
->My Portfolio Project is talking about my projects, and what I have done so far, the skills in which I have improved.
+>My Portfolio Project is talking about my projects, and what I have done so far, the skills in which I have improved in html and css
 
 ## Built With
 

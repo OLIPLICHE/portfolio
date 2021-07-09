@@ -2,9 +2,9 @@ ul {
   list-style: none;
 }
 
- a {
-   text-decoration: none;
- }
+a {
+  text-decoration: none;
+}
 
 #header {
   width: 100%;
@@ -42,7 +42,6 @@ ul {
 
 #main-container {
   width: 100%;
-
 }
 
 .headline {
@@ -58,7 +57,7 @@ ul {
 }
 
 .link-up ul {
-  display:flex;
+  display: flex;
   gap: 15px;
   padding-left: 0px;
 }
