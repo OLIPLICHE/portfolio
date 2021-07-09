@@ -59,7 +59,7 @@ a {
 .link-up ul {
   display: flex;
   gap: 15px;
-  padding-left: 0px;
+  padding-left: 0;
 }
 
 img {
