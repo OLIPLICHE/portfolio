@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-## Personal Portfolio
->Personal Portfolio project displays skills I have in bulding website. This project is project includes html and css skills. Click the links bellow to visit my website.
-[Website link] (https://github.com/OLIPLICHE/portfolio/)
+## Portfolio mobile version project
+> Portfolio mobile version project displays the skills I have in bulding website in mobile version. This project is project includes html and css skills. Click the link bellow to get to 'Portfolio mobile version' vebsite.
+[Website link] (https://github.com/OLIPLICHE/portfolio_mobile_version.git)
 
 ## This Project is build with: 
 - HTML
@@ -10,11 +10,11 @@
 - Technologies used
 
 ## Copy the link and follow the instructions to clone Portfolio project
-[SSH Github link] (git@github.com:OLIPLICHE/portfolio.git)
+[SSH Github link] (git@github.com:OLIPLICHE/portfolio_mobile_version.git)
 
 1. Copy SSH Github link above
 2. Open the Terminal in your local machine
-3. Paste type the code git clone git@github.com:OLIPLICHE/portfolio.git in the terminal
+3. Paste type the code git clone git@github.com:OLIPLICHE/portfolio_mobile_version.git in the terminal
 4. press Enter
 
 👤 **PAKA INFO**
