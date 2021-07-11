@@ -157,17 +157,9 @@ a {
   }
 }
 
-
-
 .main-page-paragr {
   width: 40%;
 }
-
- /**ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-} **/
 
 .social-media ul {
   margin: 0;
@@ -175,10 +167,6 @@ a {
   display: flex;
   gap: 15px;
 }
-
-/**.social-media ul li {
-  list-style: none;
-}**/
 
 .icon {
   height: 20px;
